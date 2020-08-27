@@ -1,0 +1,206 @@
+
+#principal {
+	height: auto;
+
+}
+
+
+/*  HEADER  */
+
+
+#desplegable{
+background-color: grey;
+font-weight: bold;
+padding: 5px;
+
+}    
+ 
+#desplegable li a {
+	color: black;
+	text-decoration: none;
+	box-sizing: border-box;
+	display: block;
+	-webkit-transition: all 500ms ease;
+	-o-transition: all 500ms ease;
+	transition: all 500ms ease;
+}
+
+#desplegable li a:hover {
+background: #d1cfc2;
+}
+
+#cookie {
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	z-index:9999; 
+    border-radius:0px;
+}
+ #logo {
+  
+   background-image: url(imagenes/cafeseamless2.jpg);
+ }
+
+#logo img {
+	display: block;
+	margin: auto;
+	
+	padding-bottom: : 50px;
+}
+
+#boton1 {
+	background-color: #f5a142;
+	height: 50px;
+	text-align: center;
+	font-weight: bold;
+	text-decoration: none;
+	padding: 5px;
+	
+}
+
+
+#boton2 {
+	background-color: #ed8d21;
+	height: 50px;
+	text-align: center;
+	font-weight: bold;
+	text-decoration: none;
+	padding: 5px;
+}
+
+
+#boton3 {
+	background-color: #d6780f;
+    height: 50px;
+    text-align: center;
+    font-weight: bold;
+    text-decoration: none;
+    padding: 5px;
+}
+
+
+ /* FIN HEADER*/
+
+
+/* SECCION PRINCIPAL */
+
+
+#box1 {
+	background-color: #73f5ec;
+	
+}
+
+#box1 img {
+	width: 50%;
+	display: block;
+    
+}
+
+#box2 {
+	background-color: #5bf0e5;
+    font-weight: bold;
+    font-size: 30px;
+    padding: 10px;
+    font-family: 'Lobster', cursive;
+	
+}
+
+#box3 {
+	background-color: #42ede1;
+	font-weight: bold;
+	font-size: 30px;
+	padding: 10px;
+	font-family: 'Lobster', cursive;
+    }
+
+#box4 {
+	background-color: #21d1c5;
+   
+}
+#box4 img {
+	width: 60%;
+}
+
+#box5 {
+	background-color: #13bfb4;
+	font-weight: bold;
+	font-size: 30px;
+	padding: 10px;
+	font-family: 'Lobster', cursive;
+
+}
+
+#box6 {
+	background-color: #0aaba1;
+
+}
+#box6 img {
+	width: 70%;
+	height: auto;
+}
+
+#box7 {
+	background-color: #068a81;
+    font-weight: bold;
+    font-size: 30px;
+    padding: 10px;
+    font-family: 'Lobster', cursive;
+}
+
+#box8 {
+    margin-top: 15px;
+    margin-bottom: 15px;
+
+    
+ }
+
+
+#variedades img{
+	
+	margin-top: 15px;
+	width: 100%;
+	
+    
+}
+
+ #visor {
+ 	margin-top: 10px;
+ 	padding: 0px;
+ }
+
+ #inicio {
+            position: fixed;
+            bottom: 10px;
+            width: auto;
+            z-index:9999; 
+            border-radius:20px;
+            display: block;
+
+            
+            
+            
+         }
+          #inicio a{
+            color: white;
+            text-decoration: none;
+            display: block;
+            box-sizing: border-box; 
+            
+           
+          }
+
+          
+
+/*FIN SECCION PRINCIPAL*/
+
+/*FOOTER*/
+
+#pie {
+	
+}
+
+/*FIN FOOTER*/
+
+/*SECTION CONTACTO */
+
